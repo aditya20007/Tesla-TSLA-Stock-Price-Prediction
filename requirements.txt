@@ -8,4 +8,6 @@ seaborn
 scikit-learn
 plotly
 joblib
-streamlit
+
+streamlit==1.32.0
+altair==4.2.2
