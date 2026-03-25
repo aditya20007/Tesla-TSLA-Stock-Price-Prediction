@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keep model and report files
+!models/*.h5
+!models/*.pkl
+!reports/*.png
